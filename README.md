@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://drive.google.com/file/d/1usoqY9QpLj78fXPrW5f7hfTgGFUJ5s7g/view?usp=sharing" alt="thesakivdev" width="800px"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sakib</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
