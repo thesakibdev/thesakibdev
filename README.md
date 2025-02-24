@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/1usoqY9QpLj78fXPrW5f7hfTgGFUJ5s7g/view?usp=sharing" alt="thesakivdev" width="800px"/>
+<img src="https://res.cloudinary.com/thesakibdev/image/upload/v1740353670/personal_doc/fxhsx3rz1tqjfog8ijxk.jpg" alt="thesakivdev" width="800px"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakib</h1>
