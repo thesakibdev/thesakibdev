@@ -267,7 +267,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesakibdev" alt="thesakibdev" /></a> </p>
 
-<p align="left"> <a href="https://x.com/thesakibdev" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/thesakibdev?logo=twitter&style=for-the-badge" alt="https://x.com/thesakibdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/thesakibdev" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/thesakibdev?logo=twitter&style=for-the-badge" alt="https://x.com/thesakibdev" /></a> </p>
 
 - 🔭 I’m currently working on [A Book Web App](https://theislamics.com)
 
@@ -291,7 +291,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/thesakibdev" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/thesakibdev" height="30" width="40" /></a>
-<a href="https://x.com/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/thesakibdev" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/thesakibdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thesakibdev" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=ws_mrwisajsic6tfv8yh5zeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=ws_mrwisajsic6tfv8yh5zeda" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thesakibdev" height="30" width="40" /></a>
