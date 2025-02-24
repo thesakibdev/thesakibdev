@@ -267,7 +267,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesakibdev" alt="thesakibdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/thesakibdev" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/thesakibdev?logo=twitter&style=for-the-badge" alt="https://x.com/thesakibdev" /></a> </p>
+<p align="left"> <a href="https://x.com/thesakibdev" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/thesakibdev?logo=twitter&style=for-the-badge" alt="https://x.com/thesakibdev" /></a> </p>
 
 - 🔭 I’m currently working on [A Book Web App](https://theislamics.com)
 
@@ -284,7 +284,6 @@
 - ⚡ Fun fact **I am Funny coder**
 
 ### Blogs posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -297,7 +296,9 @@
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=ws_mrwisajsic6tfv8yh5zeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=ws_mrwisajsic6tfv8yh5zeda" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thesakibdev" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thesakibdev" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@thesakibdev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/thesakibdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/thesakibdev" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/699652455381860463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/699652455381860463" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
