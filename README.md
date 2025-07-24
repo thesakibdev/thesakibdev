@@ -16,11 +16,11 @@
 - 🌱 I’m currently learning **I’m currently learning Advanced JS, MySQL, PostgreSQL, Supabase, Next.js Latest.” →
 “Currently learning: Advanced JavaScript, MySQL, PostgreSQL, Supabase, and the latest Next.js features.**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-livid-phi-92.vercel.app](https://my-portfolio-livid-phi-92.vercel.app)
+- 👨‍💻 All of my projects are available at [https://thesakib.dev/showcase](https://thesakib.dev/showcase)
 
 - 💬 Ask me about **js, react, nextjs, mongodb, expressjs.**
 
-- 📫 How to reach me **thesakibdev@gmail.com**
+- 📫 How to reach me **Send mail = thesakibdev@gmail.com Or Send Direct Message = +8801618574590**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15vszH9vhgXpWLc1M1qcEPKo9CiV6j470/view?usp=sharing](https://drive.google.com/file/d/15vszH9vhgXpWLc1M1qcEPKo9CiV6j470/view?usp=sharing)
 
