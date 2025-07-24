@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **js, react, nextjs, mongodb, expressjs.**
 
-- 📫 How to reach me **Send mail = thesakibdev@gmail.com Or Send Direct Message = +8801618574590**
+- 📫 How to reach me **Send mail = thesakibdev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15vszH9vhgXpWLc1M1qcEPKo9CiV6j470/view?usp=sharing](https://drive.google.com/file/d/15vszH9vhgXpWLc1M1qcEPKo9CiV6j470/view?usp=sharing)
 
