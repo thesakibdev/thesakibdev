@@ -19,7 +19,6 @@
 - 👨‍💻 All of my projects are available at [https://thesakib.dev/showcase](https://thesakib.dev/showcase)
 
 - 💬 Ask me about **js, react, nextjs, mongodb, expressjs.**
-- 
 - 📫 Hire Now **[Send mail = thesakibdev@gmail.com](https://www.upwork.com/freelancers/~01806264b428413715?mp_source=share)**
 
 - 📫 How to reach me **Send mail = thesakibdev@gmail.com**
