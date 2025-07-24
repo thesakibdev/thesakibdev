@@ -13,7 +13,8 @@
 
 - 🔭 I’m currently working on [A Book Web App](https://theislamics.com)
 
-- 🌱 I’m currently learning **Advance JS, mySql, Postgresql, Supabase, Nextjs Latest.**
+- 🌱 I’m currently learning **I’m currently learning Advanced JS, MySQL, PostgreSQL, Supabase, Next.js Latest.” →
+“Currently learning: Advanced JavaScript, MySQL, PostgreSQL, Supabase, and the latest Next.js features.**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-livid-phi-92.vercel.app](https://my-portfolio-livid-phi-92.vercel.app)
 
